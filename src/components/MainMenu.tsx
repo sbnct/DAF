@@ -344,7 +344,7 @@ export const MainMenu: React.FC<MainMenuProps> = ({
 
               <div className="mt-4 pt-3 border-t border-neutral-800 text-center">
                 <a
-                  href="https://subn0cte.github.io"
+                  href="https://sbnct.github.io"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-cyan-400 hover:text-cyan-300 underline font-['Patrick_Hand'] text-xl lowercase transition-colors"
